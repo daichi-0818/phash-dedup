@@ -1,5 +1,7 @@
 # phash-dedup
 
+[![CI](https://github.com/daichi-0818/phash-dedup/actions/workflows/ci.yml/badge.svg)](https://github.com/daichi-0818/phash-dedup/actions/workflows/ci.yml)
+
 Perceptual-hash (pHash) based near-duplicate image clustering, implemented
 from scratch with Pillow and numpy — no external phash library dependency.
 
